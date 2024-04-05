@@ -1,0 +1,6 @@
+@Web_Api_CRUD_Dotnet_Core_8_HostAddress = http://localhost:5090
+
+GET {{Web_Api_CRUD_Dotnet_Core_8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
